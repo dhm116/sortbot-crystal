@@ -1,0 +1,13 @@
+name: sortbot-crystal
+version: 0.1.0
+
+authors:
+  - Doug McCall <dhm116@gmail.com>
+
+targets:
+  sortbot-crystal:
+    main: src/sortbot-crystal.cr
+
+crystal: 0.30.0
+
+license: MIT
